@@ -7,6 +7,16 @@
   text-decoration: underline;
 }
   
-.snead {
+#snead1, #snead2, #snead3, #snead4, #snead5, #snead6, #snead7, #snead8, #snead9 {
   display: none;
+}
+
+body {
+  
+  font-size: larger;
+}
+
+h1{
+  color:darkblue;
+  font-style: italic;
 }
